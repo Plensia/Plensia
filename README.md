@@ -26,6 +26,15 @@ Hey there, I’m Plensia Lukosi (she/her)! I’m not your average data analyst, 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
 <img align="left" alt="Heroku" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />  
 <br/><br/>
+Collaboration Interests
+
+🎨 Crafting stunning UI/UX designs that captivate
+
+📊 Creating data visualizations that inspire awe
+
+🌐 Building interactive web experiences that delight
+
+💡 Innovating at the intersection of tech and creativity
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/https://x.com/plensiapl" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/plensia-lukosi/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
@@ -33,8 +42,11 @@ Hey there, I’m Plensia Lukosi (she/her)! I’m not your average data analyst, 
 <a target="_blank" href="undefinedhttps://medium.com/@plensiapl" style="display: inline-block;">
 <img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
 
-![Plensia's GitHub stats](https://github-readme-stats.vercel.app/api?username=plensia&show_icons=true&theme=github_dark)
+
 <div align="center">
+
+  ![Plensia's GitHub stats](https://github-readme-stats.vercel.app/api?username=plensia&show_icons=true&theme=github_dark)
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=plensia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
