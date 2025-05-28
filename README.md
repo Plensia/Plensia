@@ -34,4 +34,13 @@ Hey there, I’m Plensia Lukosi (she/her)! I’m not your average data analyst, 
 <img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
 
 ![Plensia's GitHub stats](https://github-readme-stats.vercel.app/api?username=plensia&show_icons=true&theme=github_dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=plensia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/plensia/plensia/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/plensia/plensia/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/plensia/plensia/output/pacman-contribution-graph.svg">
+</picture>
