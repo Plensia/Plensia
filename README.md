@@ -1,5 +1,5 @@
-![github-header-image](https://github.com/user-attachments/assets/bb6139c7-4a77-437f-b781-c0f1b8f565b2)
 
+![github-header-image](https://github.com/user-attachments/assets/02a8c9e0-b8e2-4ceb-bc03-33b5ba6128e8)
 
 # Plensia Lukosi 
 **`Data Artist🎨 | Pixel Poet🌐 | Code Weaver🧵`** 
