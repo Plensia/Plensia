@@ -1,51 +1,62 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=43CEA2&center=true&vCenter=true&width=500&height=70&lines=Plensia+Lukosi;Data+Analyst;Front-End+Developer;Web+Designer;From+Tanzania;Creative+Tech+Enthusiast" alt="Typing Animation" />
+</div>
 
-![github-header-image](https://github.com/user-attachments/assets/02a8c9e0-b8e2-4ceb-bc03-33b5ba6128e8)
+![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:43cea2,100:185a9d&text=%20Plensia+Lukosi&textBg=false&desc=(she/her)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=f7f5f5)
+<p align="center">I'm a data analyst, front-end developer, and web designer from Tanzania. I turn data into meaningful stories, craft intuitive designs, and build engaging web experiences. Check out my creative process on Instagram @builtbysia!</p>
 
-# Plensia Lukosi 
-**`Data Artist🎨 | Pixel Poet🌐 | Code Weaver🧵`** 
+<h3>Quick Links</h3>
 
-I paint stories with data, design dreams with pixels, and weave magic with code—creating tech that sparks joy for @everyone!🌟  
+<div align="left">
+    <a href="mailto:plensiapl@gmail.com"><img src="https://img.shields.io/badge/Mail%20me-30302f?style=flat-square&logo=gmail" alt="Email"></a>
 
-About Me
-Hey there, I’m Plensia Lukosi (she/her)! I’m not your average data analyst, front-end developer, or web designer—I’m a digital alchemist who transforms raw numbers into breathtaking insights, crafts pixel-perfect designs that dance, and writes code that sings. Catch my creative process on Instagram @builtbysia, where I share what I know, what I’m learning, and snippets of my work! Whether I’m diving into data, designing a stunning UI, or coding a seamless experience, I bring a splash of creativity to everything I do.
+</div>
 
-🌟 A love for turning data into art that tells a story  
-🎨 A passion for designing interfaces that feel like magic  
-💻 A curiosity to code solutions that light up the web
+<br>
+<a href="https://github.com/plensia"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40%" align="right" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Coding GIF">
+  </a>
 
-<h2>🛠️ Languages and Tools I Use</h2>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />  
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />  
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />  
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />  
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />  
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />  
-<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />  
-<img align="left" alt="Scikit-learn" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />  
-<img align="left" alt="Seaborn" width="30px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />  
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />          
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />  
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
-<img align="left" alt="Heroku" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />  
-<br/><br/>
+<ul>
+    <li>🔭 I love turning data into art that tells a story.</li>
+    <li>🎨 Passionate about designing interfaces that feel intuitive and magical.</li>
+    <li>👨‍💻 Always curious to code solutions that enhance web experiences.</li>
+</ul>
 
-# Collaboration Interests
+<h2 id=lang>Skills</h2>
 
-🎨 Crafting stunning UI/UX designs that captivate
+**Languages**
 
-📊 Creating data visualizations that inspire awe
+![Languages](https://skillicons.dev/icons?i=python,js,html,css&perline=10)
 
-🌐 Building interactive web experiences that delight
+**Frameworks & Libraries**
 
-💡 Innovating at the intersection of tech and creativity
+![frameworks](https://skillicons.dev/icons?i=react,bootstrap,pandas&perline=10)
 
-# Where to find me
-<p><a target="_blank" href="https://twitter.com/https://x.com/plensiapl" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/plensia-lukosi/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/builtbysia/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="https://medium.com/@plensiapl" style="display: inline-block;">
-<img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
+**Data Science & ML**
+
+![ds.ml](https://skillicons.dev/icons?i=sklearn,seaborn&perline=10)
+
+**Databases**
+
+![database](https://skillicons.dev/icons?i=mysql,mongodb&perline=10)
+
+**Tools**
+
+![Tools](https://skillicons.dev/icons?i=figma,git,heroku,vscode&perline=10)
+
+<h2>🖼 Profile Links</h2>
+<p>
+    <a href="https://x.com/plensiapl"><img src="https://img.shields.io/badge/Twitter-FF5722?style=for-the-badge&logo=x&logoColor=white" alt=""></a>
+    <a href="https://www.linkedin.com/in/plensia-lukosi/"><img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" alt="" srcset=""></a>
+    <a href="https://www.instagram.com/builtbysia/"><img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" alt="" srcset=""></a>
+    <a href="https://medium.com/@plensiapl"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="" srcset=""></a>
+</p>
+
+<h2>☕️ Buy Me a Coffee</h2>
+<p>
+    <a href="https://www.buymeacoffee.com/plensia" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
+
+</p>
 
 
 <div align="center">
@@ -55,7 +66,6 @@ Hey there, I’m Plensia Lukosi (she/her)! I’m not your average data analyst, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=plensia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
