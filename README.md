@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=43CEA2&center=true&vCenter=true&width=500&height=70&lines=Plensia+Lukosi;Data+Analyst;Front-End+Developer;Web+Designer;From+Tanzania;Creative+Tech+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FFF1DE&center=true&vCenter=true&width=500&height=70&lines=Plensia+Lukosi;Data+Analyst;Front-End+Developer;Web+Designer;From+Tanzania;Creative+Tech+Enthusiast" alt="Typing Animation" />
 </div>
 
 ![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:43cea2,100:185a9d&text=%20Plensia+Lukosi&textBg=false&desc=(she/her)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=f7f5f5)
