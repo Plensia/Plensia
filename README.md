@@ -46,10 +46,10 @@
 
 <h2>🖼 Profile Links</h2>
 <p>
-    <a href="https://x.com/plensiapl"><img src="https://img.shields.io/badge/Twitter-FF5722?style=for-the-badge&logo=x&logoColor=white" alt=""></a>
-    <a href="https://www.linkedin.com/in/plensia-lukosi/"><img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" alt="" srcset=""></a>
-    <a href="https://www.instagram.com/builtbysia/"><img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" alt="" srcset=""></a>
-    <a href="https://medium.com/@plensiapl"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="" srcset=""></a>
+<img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&#x26;logo=medium&#x26;logoColor=white" height="40" alt="Medium">
 </p>
 
 <h2>☕️ Buy Me a Coffee</h2>
