@@ -44,12 +44,12 @@
 
 ![Tools](https://skillicons.dev/icons?i=figma,git,heroku,vscode&perline=10)
 
-<h2>🖼 Profile Links</h2>
+<h2>Profile Links</h2>
 <p>
-<img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&#x26;logo=medium&#x26;logoColor=white" height="40" alt="Medium">
+    <a href="https://x.com/plensiapl"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter"></a>
+    <a href="https://www.linkedin.com/in/plensia-lukosi/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"></a>
+    <a href="https://www.instagram.com/builtbysia/"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"></a>
+    <a href="https://medium.com/@plensiapl"><img src="https://skillicons.dev/icons?i=medium" height="40" alt="Medium"></a>
 </p>
 
 <h2>☕️ Buy Me a Coffee</h2>
