@@ -1,3 +1,19 @@
+
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/plensia/plensia"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+    <a href="https://github.com/plensia/plensia/graphs/contributors"><img src="https://img.shields.io/github/contributors/plensia/plensia?color=blue"></a>
+    <a href="https://github.com/plensia/plensia/stargazers"><img src="https://img.shields.io/github/stars/plensia/plensia.svg?logo=github"></a>
+    <a href="https://github.com/plensia/plensia/network/members"><img src="https://img.shields.io/github/forks/plensia/plensia.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=plensia.plensia" alt="visitors"/>   
+</p>
+
+<!--   my-header-img -->
+![](./src/header.png)
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FFF1DE&center=true&vCenter=true&width=500&height=70&lines=Plensia+Lukosi;Data+Analyst;Front-End+Developer;Web+Designer;From+Tanzania;Creative+Tech+Enthusiast" alt="Typing Animation" />
 </div>
