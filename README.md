@@ -9,9 +9,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=plensia.plensia" alt="visitors"/>   
 </p>
 
-<!--   my-header-img -->
-![](./src/header.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+![github-header-image](https://github.com/user-attachments/assets/02a8c9e0-b8e2-4ceb-bc03-33b5ba6128e8)
 
 
 <div align="center">
