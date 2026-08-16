@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Plensia Lukosi, Data Analyst, Dar es Salaam">
+  <title>Plensia Lukosi — Data Analyst</title>
+  <desc>Animated profile banner. Every element degrades to its finished state if animation is unavailable.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="55%" stop-color="#111C24"/>
+      <stop offset="100%" stop-color="#0B1F1C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#14B8A6"/>
+      <stop offset="100%" stop-color="#5EEAD4"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#14B8A6" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#14B8A6" stop-opacity="0.22"/>
+    </linearGradient>
+
+    <clipPath id="typeClip">
+      <rect x="70" y="152" width="205" height="46">
+        <animate attributeName="width" values="0;0;205" keyTimes="0;0.28;1" dur="2.6s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="frame"><rect x="0" y="0" width="1200" height="300" rx="14"/></clipPath>
+  </defs>
+
+  <style>
+    .name { font-family:"Segoe UI",Inter,system-ui,sans-serif; font-size:62px; font-weight:700; fill:#F1F5F9; letter-spacing:1px; }
+    .role { font-family:"Fira Code","SF Mono",Consolas,monospace; font-size:27px; fill:#5EEAD4; }
+    .meta { font-family:"Segoe UI",Inter,system-ui,sans-serif; font-size:16px; fill:#94A3B8; letter-spacing:3.5px; }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+
+    <g stroke="#1E293B" stroke-width="1" opacity="0.55">
+      <line x1="0" y1="60" x2="1200" y2="60"/>
+      <line x1="0" y1="120" x2="1200" y2="120"/>
+      <line x1="0" y1="180" x2="1200" y2="180"/>
+      <line x1="0" y1="240" x2="1200" y2="240"/>
+      <line x1="720" y1="0" x2="720" y2="300"/>
+      <line x1="840" y1="0" x2="840" y2="300"/>
+      <line x1="960" y1="0" x2="960" y2="300"/>
+      <line x1="1080" y1="0" x2="1080" y2="300"/>
+    </g>
+
+    <rect x="0" y="0" width="6" height="300" fill="url(#accent)"/>
+
+    <text class="name" x="72" y="118">Plensia Lukosi
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.1;1" dur="1.1s" fill="freeze"/>
+    </text>
+
+    <g clip-path="url(#typeClip)">
+      <text class="role" x="72" y="184">Data Analyst</text>
+    </g>
+    <rect y="156" width="3" height="34" fill="#5EEAD4" x="278">
+      <animate attributeName="x" values="76;76;278" keyTimes="0;0.28;1" dur="2.6s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.5;1" dur="1s" begin="2.6s" repeatCount="indefinite"/>
+    </rect>
+
+    <text class="meta" x="74" y="232">DAR ES SALAAM &#183; SQL &#183; POWER BI &#183; PYTHON &#183; dbt
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.55;1" dur="2.8s" fill="freeze"/>
+    </text>
+
+    <g transform="translate(700, 40)">
+      <rect x="18" y="120" width="26" height="80" rx="3" fill="#134E4A">
+        <animate attributeName="y" values="200;200;120" keyTimes="0;0.321;1" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .3 1"/>
+        <animate attributeName="height" values="0;0;80" keyTimes="0;0.321;1" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .3 1"/>
+      </rect>
+      <rect x="62" y="96" width="26" height="104" rx="3" fill="#155E56">
+        <animate attributeName="y" values="200;200;96" keyTimes="0;0.414;1" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .3 1"/>
+        <animate attributeName="height" values="0;0;104" keyTimes="0;0.414;1" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .3 1"/>
+      </rect>
+      <rect x="106" y="132" width="26" height="68" rx="3" fill="#134E4A">
+        <animate attributeName="y" values="200;200;132" keyTimes="0;0.507;1" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .3 1"/>
+        <animate attributeName="height" values="0;0;68" keyTimes="0;0.507;1" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .3 1"/>
+      </rect>
+      <rect x="150" y="74" width="26" height="126" rx="3" fill="#0F766E">
+        <animate attributeName="y" values="200;200;74" keyTimes="0;0.6;1" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .3 1"/>
+        <animate attributeName="height" values="0;0;126" keyTimes="0;0.6;1" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .3 1"/>
+      </rect>
+      <rect x="194" y="104" width="26" height="96" rx="3" fill="#155E56">
+        <animate attributeName="y" values="200;200;104" keyTimes="0;0.693;1" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .3 1"/>
+        <animate attributeName="height" values="0;0;96" keyTimes="0;0.693;1" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .3 1"/>
+      </rect>
+      <rect x="238" y="52" width="26" height="148" rx="3" fill="#0F766E">
+        <animate attributeName="y" values="200;200;52" keyTimes="0;0.786;1" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .3 1"/>
+        <animate attributeName="height" values="0;0;148" keyTimes="0;0.786;1" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .3 1"/>
+      </rect>
+      <rect x="282" y="86" width="26" height="114" rx="3" fill="#155E56">
+        <animate attributeName="y" values="200;200;86" keyTimes="0;0.879;1" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .3 1"/>
+        <animate attributeName="height" values="0;0;114" keyTimes="0;0.879;1" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .3 1"/>
+      </rect>
+      <rect x="326" y="34" width="26" height="166" rx="3" fill="#14B8A6">
+        <animate attributeName="y" values="200;200;34" keyTimes="0;0.971;1" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .3 1"/>
+        <animate attributeName="height" values="0;0;166" keyTimes="0;0.971;1" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .3 1"/>
+      </rect>
+
+      <path d="M31 136 L75 112 L119 148 L163 90 L207 120 L251 68 L295 102 L339 50 L339 200 L31 200 Z" fill="url(#fade)">
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.72;1" dur="4.2s" fill="freeze"/>
+      </path>
+
+      <path d="M31 136 L75 112 L119 148 L163 90 L207 120 L251 68 L295 102 L339 50"
+            fill="none" stroke="url(#accent)" stroke-width="3.5" stroke-linecap="round"
+            stroke-linejoin="round" stroke-dasharray="1400">
+        <animate attributeName="stroke-dashoffset" values="1400;1400;0" keyTimes="0;0.15;1" dur="3.6s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.15 .75 .3 1"/>
+      </path>
+
+      <circle cx="339" cy="50" r="6" fill="#5EEAD4">
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.85;1" dur="4s" fill="freeze"/>
+      </circle>
+      <circle cx="339" cy="50" r="6" fill="none" stroke="#5EEAD4" stroke-width="2" opacity="0">
+        <animate attributeName="r" values="6;17;6" dur="2.6s" begin="4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.75;0;0.75" dur="2.6s" begin="4s" repeatCount="indefinite"/>
+      </circle>
+
+      <line x1="18" y1="201" x2="360" y2="201" stroke="#1E293B" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
