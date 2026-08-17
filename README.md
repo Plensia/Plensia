@@ -1,89 +1,11 @@
 <!-- Banner + snake are served from this repo. Badges are shields.io.
      Nothing here depends on a hobby-tier third-party renderer staying up. -->
 
-<!--   my-icons -->
-<p align="center">
-    <a href="https://github.com/plensia/plensia"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-    <a href="https://github.com/plensia/plensia/graphs/contributors"><img src="https://img.shields.io/github/contributors/plensia/plensia?color=blue"></a>
-    <a href="https://github.com/plensia/plensia/stargazers"><img src="https://img.shields.io/github/stars/plensia/plensia.svg?logo=github"></a>
-    <a href="https://github.com/plensia/plensia/network/members"><img src="https://img.shields.io/github/forks/plensia/plensia.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=plensia.plensia" alt="visitors"/>   
-</p>
-
-![github-header-image](https://github.com/user-attachments/assets/02a8c9e0-b8e2-4ceb-bc03-33b5ba6128e8)
-
+<img width="100%" src="./banner.svg" alt="Plensia Lukosi — Data Analyst, Dar es Salaam">
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FFF1DE&center=true&vCenter=true&width=500&height=70&lines=Plensia+Lukosi;Data+Analyst;Front-End+Developer;Web+Designer;From+Tanzania;Creative+Tech+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FFF1DE&center=true&vCenter=true&width=500&height=70&lines=Plensia+Lukosi;Data+Analyst;From+Tanzania;" alt="Typing Animation" />
 </div>
-
-![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:43cea2,100:185a9d&text=%20Plensia+Lukosi&textBg=false&desc=(she/her)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=f7f5f5)
-<p align="center">I'm a data analyst, front-end developer, and web designer from Tanzania. I turn data into meaningful stories, craft intuitive designs, and build engaging web experiences. Check out my creative process on Instagram @builtbysia!</p>
-
-<h3>Quick Links</h3>
-
-<div align="left">
-    <a href="mailto:plensiapl@gmail.com"><img src="https://img.shields.io/badge/Mail%20me-30302f?style=flat-square&logo=gmail" alt="Email"></a>
-
-</div>
-
-<br>
-<a href="https://github.com/plensia"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40%" align="right" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Coding GIF">
-  </a>
-
-<ul>
-    <li>🔭 I love turning data into art that tells a story.</li>
-    <li>🎨 Passionate about designing interfaces that feel intuitive and magical.</li>
-    <li>👨‍💻 Always curious to code solutions that enhance web experiences.</li>
-</ul>
-
-<h2 id=lang>Skills</h2>
-
-**Languages**
-
-![Languages](https://skillicons.dev/icons?i=python,js,html,css&perline=10)
-
-**Frameworks & Libraries**
-
-![frameworks](https://skillicons.dev/icons?i=react,bootstrap,pandas&perline=10)
-
-**Data Science & ML**
-
-![ds.ml](https://skillicons.dev/icons?i=sklearn,seaborn&perline=10)
-
-**Databases**
-
-![database](https://skillicons.dev/icons?i=mysql,mongodb&perline=10)
-
-**Tools**
-
-![Tools](https://skillicons.dev/icons?i=figma,git,heroku,vscode&perline=10)
-
-<h2>Profile Links</h2>
-<p>
-    <a href="https://x.com/plensiapl"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter"></a>
-    <a href="https://www.linkedin.com/in/plensia-lukosi/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"></a>
-    <a href="https://www.instagram.com/builtbysia/"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"></a>
-    <a href="https://medium.com/@plensiapl"><img src="https://skillicons.dev/icons?i=medium" height="40" alt="Medium"></a>
-</p>
-
-<h2>☕️ Buy Me a Coffee</h2>
-<p>
-    <a href="https://www.buymeacoffee.com/plensia" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
-
-</p>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
-<h2> 
-TODO:: Create Buy Me Coffee Account.</h2>
-<img width="100%" src="./banner.svg" alt="Plensia Lukosi — Data Analyst, Dar es Salaam">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/plensia-lukosi/">
@@ -100,23 +22,32 @@ TODO:: Create Buy Me Coffee Account.</h2>
   </a>
 </p>
 
+<!-- 🟢 NEW DEDICATED TECH STACK SECTION -->
+<h2 align="center">🛠️ My Tech Stack</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
----
+<br>
+
+<a href="https://github.com/plensia"> 
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40%" align="right" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Coding GIF">
+</a>
 
 I turn vague asks into checkable questions, then answer them in SQL, Power BI and Excel — and publish the working out, bugs included.
 
-**Open to data analyst roles and freelance dashboard work** — remote or Dar es Salaam.
+<br clear="both">
 
 ---
+<br>
 
 ## 📂 Projects
 
@@ -129,63 +60,121 @@ Click any row to open the write-up.
 | 📈 | **[LinkedIn Content Performance](https://github.com/Plensia/linkedin-content-performance-analysis)** | Loudest posts ≠ best posts — recap content converted at **39.5%** | `Excel` |
 | ☕ | **[Coffee Taste Test](https://github.com/Plensia/great-american-coffee-taste-analysis)** | Stated preference survived the blind test, across **4,023** respondents | `Power BI` `Power Query` |
 
-<details>
-<summary><b>🕵️ PaySim — the numbers behind that headline</b></summary>
+</details>
+
+<!-- 🟢 REPLACED WITH: MY ROADMAP -->
+<h2>🧭 My Roadmap</h2>
+
+<p align="center">
+  <i>Building the bridge from business questions to data infrastructure.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📊%20Data%20Analyst-14B8A6?style=for-the-badge&logoColor=white" /> 
+  <strong style="font-size: 24px;"> ➡️ </strong> 
+  <img src="https://img.shields.io/badge/⚙️%20Data%20Engineer-1DB954?style=for-the-badge&logoColor=white" /> 
+  <strong style="font-size: 24px;"> ➡️ </strong> 
+  <img src="https://img.shields.io/badge/🧩%20Analytics%20Engineer-FFD700?style=for-the-badge&logoColor=black" />
+</p>
 
 <br>
 
-| | |
-|:--|:--|
-| **Scope** | 6,362,620 mobile-money transactions |
-| **Status quo** | The bank's existing rule caught 16 of 8,213 fraud cases — 0.2% recall. Effectively dormant. |
-| **The obvious fix** | Flag transfers over 200,000 → 66.6% recall, but 1,192,198 false positives. Roughly **218 false alarms per fraud caught**. |
-| **What shipped** | One behavioural signal — the sender's balance drained to zero. **97.7% recall, 0 false positives.** Not a compromise between the other two; better than both. |
-| **Proven, not assumed** | Merchants exempt because 2.15M merchant-bound transactions contained zero fraud — checked, not guessed. |
-
-</details>
-
-<details>
-<summary><b>🏭 Maven Fuzzy Factory — what's actually in the box</b></summary>
-
-<br>
-
-| | |
-|:--|:--|
-| **Ingest** | Incremental ETL into PostgreSQL on a `created_at` watermark, with primary-key validation. A rerun extends the warehouse instead of duplicating it. |
-| **Model** | 5 dbt marts — channel performance, product profitability, refund trends, cohort retention, order value |
-| **Serve** | Streamlit executive dashboard |
-| **Ship** | Docker Compose, reproducible from a single command |
-
-</details>
-
-<details>
-<summary><b>📈 LinkedIn — reach and engagement are different questions</b></summary>
-
-<br>
-
-| | |
-|:--|:--|
-| **Scope** | 59 organic posts, Jan–Nov 2024 |
-| **Finding** | Top-reach topics pulled 8,703 impressions. Recap posts pulled 1,209 — and **39.5% engagement**, double the next best. |
-| **Bonus** | "Shorter is better" turned out false: medium-length posts hit 11.4% CTR vs 3.6% for the shortest. |
-| **Caught in the audit** | A casing typo splitting one category into two, and a "Total" row buried inside the raw data table injecting phantom categories into every chart. |
-
-</details>
-
-<details>
-<summary><b>🙈 Things I got wrong first</b></summary>
+<table align="center" width="80%">
+  <tr>
+    <td align="center" width="33%" style="border: 1px solid #14B8A6; border-radius: 10px; padding: 15px;">
+      <h3>🎯 Stage 1: Analyst</h3>
+      <p><em>Where I am now</em></p>
+      <p align="left">
+        ✅ SQL & Python for deep analysis<br>
+        ✅ Power BI & Excel for storytelling<br>
+        ✅ Asking "why" and uncovering patterns
+      </p>
+    </td>
+    <td align="center" width="34%" style="border: 1px solid #1DB954; border-radius: 10px; padding: 15px;">
+      <h3>🏗️ Stage 2: Engineer</h3>
+      <p><em>In progress</em></p>
+      <p align="left">
+        🔨 Building ETL pipelines (dbt, Airflow)<br>
+        🐳 Containerizing with Docker<br>
+        ☁️ Moving workflows to the cloud (AWS/Azure)
+      </p>
+    </td>
+    <td align="center" width="33%" style="border: 1px solid #FFD700; border-radius: 10px; padding: 15px;">
+      <h3>🧩 Stage 3: Analytics Engineer</h3>
+      <p><em>The ultimate goal</em></p>
+      <p align="left">
+        🏗️ Designing data models for scale<br>
+        🔗 Bridging the gap between data teams<br>
+        🧠 Automating quality & reliability
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-- **Transfer velocity looked like an obvious fraud signal.** It isn't — 99.86% of accounts transact exactly once, so there's no velocity to measure.
-- **Wrote a DAX column that referenced its own source field.** Circular dependency. Rebuilt it in Power Query.
-- **Assumed a plain text match would sort correctly.** An earlier cleanup step left trailing spaces and mixed casing, so every comparison silently failed.
+<p align="center">
+  <i>Currently, I'm building the foundation. Every project I ship gets me closer to the pipeline.</i>
+</p>
 
-The gap between "looks correct" and "is correct" is where most of the actual work lives.
+<br>
 
-</details>
+<!-- 🟢 NEW: CURRENTLY LOOKING FOR (Instant Scannable Badge Style) -->
+<div align="center">
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/🔍%20Open%20for%20Hire!-14B8A6?style=for-the-badge&logoColor=white" alt="Open for Hire" />
+    <img src="https://img.shields.io/badge/Data%20Analyst-181717?style=for-the-badge&logo=github&logoColor=white" alt="Data Analyst" />
+    <img src="https://img.shields.io/badge/Location-Dar%20es%20Salaam-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Remote-Yes-1DB954?style=for-the-badge&logo=icloud&logoColor=white" alt="Remote" />
+  </p>
+  
+  <p>
+    <em>I translate vague business asks into bulletproof logic — in SQL, Power BI, and Python.</em>
+  </p>
+  
+  <a href="mailto:plensiapl@gmail.com">
+    <img src="https://img.shields.io/badge/📩%20Let's%20Talk-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
+  </a>
+  <a href="https://www.linkedin.com/in/plensia-lukosi/">
+    <img src="https://img.shields.io/badge/🤝%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <br><br>
+</div>
 
----
+<!-- 🟢 NEW: BEYOND THE CODE (Colorful Grid) -->
+<h2>🎨 Beyond the Code</h2>
+
+<p align="center">
+  When I step away from the screen, my world looks a little like this:
+</p>
+
+<table border="0" align="center" cellpadding="10">
+  <tr>
+    <td align="center" width="120" style="border: 1px solid #14B8A6; border-radius: 10px;">
+      <img src="https://skillicons.dev/icons?i=figma" width="35" /><br>
+      <strong>🎨 Sketching</strong>
+    </td>
+    <td align="center" width="120" style="border: 1px solid #1DB954; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=flat-square&logo=youtube-music&logoColor=white" width="80" /><br>
+      <strong>🎧 Music</strong>
+    </td>
+    <td align="center" width="120" style="border: 1px solid #FFD700; border-radius: 10px;">
+      <img src="https://skillicons.dev/icons?i=github" width="35" /><br>
+      <strong>📖 Books</strong>
+    </td>
+    <td align="center" width="140" style="border: 1px solid #9b59b6; border-radius: 10px;">
+      <strong>💇🏾‍♀️</strong><br>
+      <strong>Braiding</strong>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <i>Fun fact: I'm currently learning to braid my own hair. It's exactly like debugging code — <br>requires patience, finding the right pattern, and trusting that it'll look good(sometimes😅) once I'm done.</i>
+</p>
+
+<br>
 
 ## 🐍 Watch the commits get eaten
 
